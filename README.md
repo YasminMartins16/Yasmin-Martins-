@@ -26,6 +26,7 @@
 
 <p float="left">
 
- <img src="https://i.pinimg.com/736x/0d/c8/0b/0dc80bb5e18457cdba0702407be1b00b.jpg" width="200" />
+ <img src="![98492f6f-6c42-4ea2-8e47-5772a3541155](https://github.com/user-attachments/assets/d3ba24aa-52a2-4603-b0cd-66d0f31ef689)
+" width="200" />
 
 </p>
