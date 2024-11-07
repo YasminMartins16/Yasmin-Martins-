@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yasmin</h1>
-<h3 align="center">Taking the first steps into the unniverse of programming</h3>
+# 👋 Hello! Welcome to my Github profile.
+## My name is SeuNomeAqui and my nickname is "SeuApelidoAqui"!
+###Taking the first steps into the unniverse of programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasminmartins16&label=Profile%20views&color=0e75b6&style=flat" alt="yasminmartins16" /> </p>
 
