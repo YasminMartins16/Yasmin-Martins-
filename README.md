@@ -25,7 +25,7 @@
 </div>
 
 <p float="left">
-
- <img src="https://i.pinimg.com/736x/cb/a3/bc/cba3bce9fc0fd2a59b12c3dffe34e354.jpg width="200" />
-
 </p>
+ <img src="https://i.pinimg.com/736x/cb/a3/bc/cba3bce9fc0fd2a59b12c3dffe34e354.jpg" width="200" />
+
+
