@@ -2,8 +2,6 @@
 ## My name is Yasmin and my nickname is "Ysmin"!
 ### Taking the first steps into the unniverse of programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasminmartins16&label=Profile%20views&color=0e75b6&style=flat" alt="yasminmartins16" /> </p>
-
 - 🌱 I’m currently learning **Python, Java, HTML, SQL, C**
 
 - 📫 How to reach me **yasminoliveira072211@gmail.com**
